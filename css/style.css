@@ -25,9 +25,18 @@ color: #241CED;
 
 }
 
+.image3{
+ width: 900px;
+}
+
 
 h1{
   color: #FFAB19;
+}
+
+h5{
+color: #961906;
+font-size: 20px;
 }
 
 .nav{
@@ -60,4 +69,13 @@ a:hover{
 text-decoration: none;
 padding: 35px;
 font-size: 35px;
+}
+
+table {
+width: 60%;
+margin: 0px 20% 0px 20%
+}
+
+td > iframe {
+width: 100px;
 }
