@@ -29,6 +29,10 @@ color: #241CED;
  width: 900px;
 }
 
+.image4 {
+  width: 200px;
+
+ }
 
 h1{
   color: #FFAB19;
@@ -78,4 +82,8 @@ margin: 0px 20% 0px 20%
 
 td > iframe {
 width: 100px;
+}
+
+.official {
+font-style: italic;
 }
